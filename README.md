@@ -12,16 +12,16 @@
 
 ---
 
-## 📌 Quick Navigation
-- [📁 Repository Structure](#-repository-structure)
-- [🟢 PRELIMS](#-prelims)
-- [🟡 MIDTERMS](#-midterms)
-- [🔴 FINALS](#-finals)
-- [👤 Author Details](#-author)
+## 📌 Quick Navis
+- [📁 Repository Structure](#repo-structure)
+- [🟢 PRELIMS](#prelims)
+- [🟡 MIDTERMS](#midterms)
+- [🔴 FINALS](#finals)
+- [👤 Author Details](#author)
 
 ---
 
-## 📁 Repository Structure
+<h2 id="repo-structure">📁 Repository Structure</h2>
 
 ```text
 2ND-YEAR-DATA-STRUCTURES-AND-ALGORITHMS/
