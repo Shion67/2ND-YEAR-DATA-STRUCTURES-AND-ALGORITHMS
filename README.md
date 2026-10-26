@@ -1,60 +1,34 @@
-# 2nd Year Data Structures and Algorithms
+# 💻 2nd Year Data Structures and Algorithms
 
-My complete repository containing all Hands-on Activities (HOAs) and Seatworks (SWs) compiled across Prelims, Midterms, and Finals.
+> *My complete repository containing all Hands-on Activities (HOAs) and Seatworks (SWs) compiled across Prelims, Midterms, and Finals.*
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+![C++](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B)
+![VS Code](https://img.shields.io/badge/IDE-VS%20Code%20%2F%20Code%3A%3ABlocks%20%2F%20Dev--C%2B%2B-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/Version%20Control-Git%20%26%20GitHub-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📌 Quick Navigation
+- [📁 Repository Structure](#-repository-structure)
+- [🟢 PRELIMS](#-prelims)
+- [🟡 MIDTERMS](#-midterms)
+- [🔴 FINALS](#-finals)
+- [👤 Author Details](#-author)
 
 ---
 
 ## 📁 Repository Structure
 
-### 🟢 PRELIMS
-#### Hands-on Activities (HOAs)
-- `Hands-on Activity 1.1`: Basic C++ Programming
-- `Hands-on Activity 2.1`: Arrays, Pointers, and Dynamic Memory Allocation
-- `Hands-on Activity 3.1`: Linked Lists
-- `Hands-on Activity 4.1`: Stacks
-- `Hands-on Activity 5.1`: Queues
-
-#### Seatworks (SWs)
-- `Seatwork 1.1`: Algorithm, Flowchart, Pseudocode
-- `Seatwork 2.1`: Memory Diagram Exercise
-- `Seatwork 3.1`: Singly Linked List
-- `Seatwork 4.1`: Array-Based vs. STL Stack Implementation
-
----
-
-### 🟡 MIDTERMS
-#### Hands-on Activities (HOAs)
-- `Hands-on Activity 6.1`: Searching Techniques
-- `Hands-on Activity 7.1`: Sorting Algorithms Pt 1
-- `Hands-on Activity 9.1`: Tree ADT
-
-#### Seatworks (SWs)
-- `Assignment 6.1`: Linear and Binary Search
-- `Seatwork 7.1`: Using Sorting Algorithms
-- `Seatwork 7.2`: Algorithm Analysis Best-Case and Worst-Case
-- `Seatwork 9.1`: Implementing Trees
-
----
-
-### 🔴 FINALS
-#### Hands-on Activities (HOAs)
-- `Hands-on Activity 11.1`: Basic Algorithm Analysis
-- `Hands-on Activity 12.1`: Algorithmic Strategies
-- `Hands-on Activity 13.1`: Parallel Algorithms and Multithreading
-- `Hands-on Activity 14.1`: Algorithm Complexity
-
-#### Seatworks (SWs)
-- `Seatwork 11.1`: Planning
-
----
-
-## 🛠️ Tech Stack & Tools
-- **Language:** C++
-- **IDE:** VS Code / Code::Blocks / Dev-C++
-- **Version Control:** Git & GitHub
-
----
-
-## 👤 Author
-- **GitHub:** Shion67
-- **Course:** Data Structures and Algorithms (DSA)
+```text
+2ND-YEAR-DATA-STRUCTURES-AND-ALGORITHMS/
+├── 📂 PRELIM HOAs/
+├── 📂 PRELIM SWs/
+├── 📂 MIDTERM HOAs/
+├── 📂 MIDTERM SWs/
+├── 📂 FINALS HOAs/
+├── 📂 FINALS SWs/
+└── 📄 README.md
