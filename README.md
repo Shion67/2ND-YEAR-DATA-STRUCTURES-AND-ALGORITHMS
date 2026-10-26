@@ -12,7 +12,7 @@
 
 ---
 
-## 🧭 Galaxy Map & Navigation
+## 🧭 Navigation
 - [<h2 id="repo-structure">📁 Repository Structure</h2>](#-repository-structure)
 - [🔵 PRELIMS HOAs](./PRELIM%20HOAs)
 - [📜 PRELIMS SWs](./PRELIM%20SWs)
