@@ -1,18 +1,20 @@
-# 🌌 2ND-YEAR-DATA-STRUCTURES-AND-ALGORITHMS: Jedi Archives
+# 🌌 2ND-YEAR-DATA-STRUCTURES-AND-ALGORITHMS: The Jedi Archives
 
 > *My complete repository containing all Hands-on Activities (HOAs) and Seatworks (SWs) compiled across Prelims, Midterms, and Finals.*
 
 ---
 
-## ⚔️ Forge & Tools
+## ⚔️ Tools
 
-![Languages](https://img.shields.io/badge/Languages-C%2B%2B%20%7C%20Python-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![IDE](https://img.shields.io/badge/IDE-VS%20Code%20%2F%20Dev--C%2B%2B-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Version Control](https://img.shields.io/badge/Version%20Control-Git%20%26%20GitHub-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Languages-C%2B%2B%20%7C%20Python-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDE-VS%20Code%20%2F%20Dev--C%2B%2B-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Version%20Control-Git%20%26%20GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
-## 🧭 Navigation
+## 🧭 Galaxy Map & Navigation
 - [<h2 id="repo-structure">📁 Repository Structure</h2>](#-repository-structure)
 - [🔵 PRELIMS HOAs](./PRELIM%20HOAs)
 - [📜 PRELIMS SWs](./PRELIM%20SWs)
