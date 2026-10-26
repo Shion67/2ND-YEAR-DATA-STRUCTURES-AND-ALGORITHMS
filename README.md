@@ -20,11 +20,17 @@
 - [📝 MIDTERMS SWs](./MIDTERM%20SWs)
 - [🔴 FINALS HOAs](./FINALS%20HOAs)
 - [📝 FINALS SWs](./FINALS%20SWs)
-- [👤 Author Details](#author)
+- [👤 Author Details](#author-details)
 
 ---
 
-<h2 id="repo-structure">📁 Repository Structure</h2>
+<h2 id="author-details">👤 Author</h2>
+
+| Attribute | Details |
+| :--- | :--- |
+| **GitHub** | [@Shion67](https://github.com/Shion67) |
+| **Course** | Data Structures and Algorithms (DSA) |
+| **Status** | Completed 🚀 |
 
 ```text
 2ND-YEAR-DATA-STRUCTURES-AND-ALGORITHMS/
