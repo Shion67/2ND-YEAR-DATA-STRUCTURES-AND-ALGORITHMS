@@ -6,11 +6,9 @@
 
 ## ⚔️ Forge & Tools
 
-![C++](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![VS Code](https://img.shields.io/badge/IDE-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Dev C++](https://img.shields.io/badge/IDE-Dev%20C%2B%2B-4B6EAF?style=for-the-badge&logo=cplusplus)
-![Git](https://img.shields.io/badge/Version%20Control-Git%20%26%20GitHub-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Languages](https://img.shields.io/badge/Languages-C%2B%2B%20%7C%20Python-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![IDE](https://img.shields.io/badge/IDE-VS%20Code%20%2F%20Dev--C%2B%2B-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Version Control](https://img.shields.io/badge/Version%20Control-Git%20%26%20GitHub-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
