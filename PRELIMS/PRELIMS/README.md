@@ -1,2 +1,0 @@
-
-# Prelims Activities
