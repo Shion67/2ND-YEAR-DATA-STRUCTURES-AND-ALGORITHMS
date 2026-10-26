@@ -13,10 +13,13 @@
 ---
 
 ## 📌 Quick Navis
-- [📁 Repository Structure](#repo-structure)
-- [🟢 PRELIMS](#prelims)
-- [🟡 MIDTERMS](#midterms)
-- [🔴 FINALS](#finals)
+- [📁 Repository Structure](#-repository-structure)
+- [🟢 PRELIMS HOAs](./PRELIM%20HOAs)
+- [📝 PRELIMS SWs](./PRELIM%20SWs)
+- [🟡 MIDTERMS HOAs](./MIDTERM%20HOAs)
+- [📝 MIDTERMS SWs](./MIDTERM%20SWs)
+- [🔴 FINALS HOAs](./FINALS%20HOAs)
+- [📝 FINALS SWs](./FINALS%20SWs)
 - [👤 Author Details](#author)
 
 ---
